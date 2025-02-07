@@ -1,5 +1,1 @@
 cmake
-build-essential
-g++
-libgtk2.0-dev
-libboost-all-dev
