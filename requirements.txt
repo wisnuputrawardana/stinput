@@ -1,4 +1,4 @@
-pip --upgrade pip
+pip>=25.0
 Pillow
 streamlit
 face_recognition
